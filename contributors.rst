@@ -15,3 +15,5 @@ Contributors
 - SeongChan Lee
 - LEE Dongjun
 - Misun Cho
+- Seonpyo Kim
+- Seongjae Choi
