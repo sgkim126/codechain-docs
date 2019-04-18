@@ -25,11 +25,6 @@ that something is a bug, please report it as an issue at CodeChain's `git page <
 please email us at codechain@kodebox.io.
 
 
-How efficient is CodeChain?
-------------------------------------------------------------------------------------------------------------------------------------------
-CodeChain aims to solve the scalability issues that many blockchains face as they grow larger. By integrating sharding, CodeChain provides
-horizontal scaling to achieve higher transaction speeds.
-
 How do I get started?
 ------------------------------------------------------------------------------------------------------------------------------------------
 Check out :ref:`setup` to get started. It should give you the general guidelines required to get everything setup and running.

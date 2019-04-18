@@ -6,8 +6,7 @@ Transaction
 
 Transactions can do a variety of things that change the state of various aspects within CodeChain. Obvious features
 of transactions include trading assets and making payments. However, a less obvious feature involves setting a regular
-key to accounts so that transactions can be signed with the regular key instead of the private key. Finally, there is
-also a feature that allows users to create shards, where assets are stored and managed.
+key to accounts so that transactions can be signed with the regular key instead of the private key.
 
 CodeChain was developed with multi-asset management in mind, coupled with the ability for the service provider to pay transaction
 fees for users. Asset transactions are collected at the gateway. These gateways would be the service providers, and can pay the
