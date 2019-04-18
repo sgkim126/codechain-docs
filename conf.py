@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'CodeChain'
-copyright = '2018, CodeChain Team <codechain@kodebox.io>'
-author = 'CodeChain Team <codechain@kodebox.io>'
+copyright = '2018, CodeChain Team <hi@codechain.io>'
+author = 'CodeChain Team <hi@codechain.io>'
 
 # The short X.Y version
 version = ''
@@ -129,7 +129,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'CodeChain.tex', 'CodeChain Documentation',
-     'CodeChain Team \\textless{}codechain@kodebox.io\\textgreater{}', 'manual'),
+     'CodeChain Team \\textless{}hi@codechain.io\\textgreater{}', 'manual'),
 ]
 
 

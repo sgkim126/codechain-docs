@@ -3,7 +3,7 @@ Security
 ####################
 
 Different from common bugs, security issues that are an immediate threat to CodeChain's well-being
-should be reported directly to us at codechain@kodebox.io. When reporting such security issues,
+should be reported directly to us at hi@codechain.io. When reporting such security issues,
 it would be of great help if you refer to the following guidelines:
 
 Security issues fall into one of three categories. These three categories are classified as 3 levels:

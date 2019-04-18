@@ -22,7 +22,7 @@ How do I report bugs?
 ------------------------------------------------------------------------------------------------------------------------------------------
 If you have questions whether something is a bug or not, please use our :ref:`gitter-rooms` to ask questions first. If you are certain
 that something is a bug, please report it as an issue at CodeChain's `git page <https://github.com/CodeChain-io>`_. For security issues,
-please email us at codechain@kodebox.io.
+please email us at hi@codechain.io.
 
 
 How do I get started?
