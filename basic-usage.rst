@@ -54,7 +54,7 @@ You could get information about Corgi at this `link <https://corgi.codechain.io/
 In order to participate in the Corgi network, you should use the command below:
 ::
 
-    codechain --chain corgi --no-miner --bootstrap-addresses "52.68.160.158:3485" "52.87.80.242:3485" "13.52.125.202:3485" "18.184.72.190:3485" "13.124.7.55:3485"
+    ENABLE_ORDER=true ENABLE_DELEGATIONS=true codechain --chain corgi --no-miner --bootstrap-addresses "52.68.160.158:3485" "52.87.80.242:3485" "13.52.125.202:3485" "18.184.72.190:3485" "13.124.7.55:3485"
 
 In order to participate in the Main network, you should use the command below:
 ::
