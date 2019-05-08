@@ -91,6 +91,9 @@ CLI Options for CodeChain client
     ``--keys-path=[PATH]``
         Specify the path for JSON key files to be found.
 
+    ``--password-path=[PATH]``
+        Specify the password file path.
+
     ``--snapshot-path=[PATH]``
         Specify the snapshot directory path.
 
