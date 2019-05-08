@@ -1,14 +1,14 @@
 Basic Usage
 ###########
 
-Run Built Executable
-====================
-To get started, you must first run the built executable of CodeChain.
+Run the Executable
+==================
+To get started, you must download the binary file from `this link <https://github.com/codechain-io/codechain/releases>`_.
 
 In order to run CodeChain, run
 ::
 
-    ./target/release/codechain
+    ./codechain
 
 You can create a block by sending a transaction through `JSON-RPC <https://github.com/CodeChain-io/codechain/blob/master/spec/JSON-RPC.md>`_. In order to utilize
 JSON-RPC, you can use Curl or `JavaScript SDK <https://api.codechain.io/>`_.
