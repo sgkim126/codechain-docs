@@ -8,7 +8,7 @@ Asset Addresses have a ``"cca"`` tag.
 
 Platform Account Address Format
 ------------------------------------
-HRP: ``"ccc"`` for Mainnet, ``"tcc"`` for Testnet.
+HRP: ``"ccc"`` for Mainnet, ``"wcc"`` for Corgi Testnet.
 
 Data Part: ``version`` . ``body``
 
@@ -19,7 +19,7 @@ Account ID is a result of ripemd160 of blake256 of a public key (64 bytes uncomp
 
 Asset Transfer Address Format
 ------------------------------------
-HRP: ``"cca"`` for Mainnet, ``"tca"`` for Testnet.
+HRP: ``"cca"`` for Mainnet, ``"wca"`` for Corgi Testnet.
 
 Data: ``version`` . ``body``
 
