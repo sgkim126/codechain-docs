@@ -12,8 +12,6 @@ called “Mint 10000 Gold and send 3000 Gold using AssetMintTransaction, AssetTr
 
 __ https://api.codechain.io
 
-Before following any examples, please make sure to carefully go through the `setup section <https://codechain.readthedocs.io/en/latest/setup.html>`_ before starting any examples.
-
 Then, check whether your CodeChain RPC server is up and running. You can read about how that is done in the `configure section <https://codechain.readthedocs.io/en/latest/configuration.html>`_.
 
 Setup the Test Account
