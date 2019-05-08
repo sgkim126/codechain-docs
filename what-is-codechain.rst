@@ -10,7 +10,7 @@ The CodeChain Asset Exchange Protocol facilitates low friction peer-to-peer exch
 CodeChain console is a user-friendly portal where token configuration can be easily managed with few clicks even by asset managers with no engineering background. Minimal coding of a non-Turing complete script language will be needed if token requirements are complex.
 
 ======================================
-Key features:
+Key features
 ======================================
 
 - **Legal compliance**: Token-level built-in support for regulatory compliant issuance and transactions (KYC/AML)
