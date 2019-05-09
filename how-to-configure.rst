@@ -170,3 +170,20 @@ CLI Options for CodeChain client
 
     ``--no-snapshot``
         Disable snapshots
+
+password.json file
+------------------
+
+Use the passsword.json file to unlock keys in CodeChain.
+Unlocked keys are used to sign consensus messages
+or sign transactions that are received from the RPC.
+You can use the format below (the order does not matter):
+
+::
+
+    [
+        {
+            "address": "cccqygfj5kdqecsgdcf422nld58vexkjup9xgf6036e",
+            "password": "my password"
+        }
+    ]
